@@ -1,10 +1,5 @@
 # Welcome to TA Distribusi Gas
 
-🔖 Project Detail
-- Direct by: Illiyin Putra
-- Codeigniter 3
-- Database Mysql
-- Front-End with Bootstrap and jQuery
 
 🔧 Setup:
 - First, git pull origin master
